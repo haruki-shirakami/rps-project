@@ -1,0 +1,30 @@
+#buttons{
+  text-align: center;
+  margin-top: 200px;
+}
+
+button{
+  font-size: 24px;
+  margin: 0 10px;
+}
+
+#commentary{
+  margin-top: 40px;
+  text-align: center;
+}
+
+#scoretable{
+  display: table;
+  margin: 0 auto;
+  margin-top: 40px;
+  text-align: center;
+}
+
+#row1, #row2{
+  display: table-row;
+}
+
+#playerlabel, #playerscore, #cpulabel, #cpuscore{
+  display: table-cell;
+  padding-right: 20px;
+}
